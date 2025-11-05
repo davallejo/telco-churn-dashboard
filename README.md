@@ -52,6 +52,13 @@ npm run build
 # Previsualizar build de producción
 npm run preview
 ```
+<img width="467" height="121" alt="image" src="https://github.com/user-attachments/assets/1bc04dc3-f6b3-4289-98fc-44d9f4edf60a" />
+
+<img width="467" height="118" alt="image" src="https://github.com/user-attachments/assets/af24e9be-83a9-412d-97c7-4757ac8f4802" />
+
+<img width="893" height="457" alt="image" src="https://github.com/user-attachments/assets/c155f3d3-4629-4a58-8a7d-7b37a31f7ac3" />
+
+
 
 El dashboard estará disponible en `http://localhost:5173`
 
@@ -155,15 +162,24 @@ Exporta los registros filtrados actuales en formato CSV con el nombre `telco_chu
 - 4 KPIs principales en tarjetas blancas
 - Filtros por contrato e internet
 
+<img width="1107" height="554" alt="image" src="https://github.com/user-attachments/assets/78c8f989-605f-4314-86fa-4080a7ceab2b" />
+
+
 ### Visualizaciones
 - Gráfica de % Churn por tipo de contrato
 - Gráfica de % Churn por servicio de internet
+
+<img width="1107" height="542" alt="image" src="https://github.com/user-attachments/assets/1173eabd-eba9-4f47-af76-2d10bef7a0a0" />
+
 
 ### Tabla de Datos
 - Búsqueda global
 - Paginación de 10 registros
 - Estados visuales para Churn (verde/rojo)
 - Botón de exportación CSV
+
+<img width="1073" height="651" alt="image" src="https://github.com/user-attachments/assets/b351d4df-f1b0-4794-bfab-381c35ab6ab7" />
+
 
 ## 🤝 Contribuir
 
@@ -191,10 +207,7 @@ Este proyecto está bajo la Licencia MIT. Ver archivo `LICENSE` para más detall
 
 ## 👥 Autor
 
-Desarrollado por **BIG School Data Science Team**
-
-- 🌐 Website: [bigschool.com](https://bigschool.com)
-- 📧 Email: contact@bigschool.com
+Desarrollado por **Diego Vallejo**
 
 ## 🙏 Agradecimientos
 

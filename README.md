@@ -2,6 +2,8 @@
 
 Dashboard ejecutivo en React para análisis de fuga de clientes (Customer Churn) en empresas de telecomunicaciones.
 
+<img width="1106" height="695" alt="image" src="https://github.com/user-attachments/assets/ea1ca30a-33fd-489f-8df0-a641885ef952" />
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![React](https://img.shields.io/badge/React-18.2.0-61dafb.svg)
 ![Tailwind](https://img.shields.io/badge/Tailwind-3.3.2-38bdf8.svg)

@@ -39,7 +39,7 @@ Dashboard ejecutivo en React para análisis de fuga de clientes (Customer Churn)
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/telco-churn-dashboard.git
+git clone https://github.com/davallejo/telco-churn-dashboard.git
 cd telco-churn-dashboard
 
 # Instalar dependencias

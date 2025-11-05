@@ -141,6 +141,8 @@ El dashboard normaliza automáticamente:
 - **Churn Rate**: % de clientes que abandonaron el servicio
 - **Tenure Medio**: Promedio de meses como cliente
 - **Ticket Medio**: Promedio de cargo mensual
+<img width="825" height="95" alt="image" src="https://github.com/user-attachments/assets/911b29be-915a-498c-83d9-bb1dff5e45c8" />
+
 
 ### 3. Filtros Interactivos
 
@@ -148,14 +150,19 @@ Los filtros afectan simultáneamente:
 - Tarjetas de KPIs
 - Gráficas de barras
 - Tabla de registros
+<img width="822" height="118" alt="image" src="https://github.com/user-attachments/assets/2958d465-31c9-471c-9ad4-04e839537a39" />
 
 ### 4. Búsqueda Global
 
 Busca en tiempo real en todos los campos del dataset filtrado.
+<img width="818" height="209" alt="image" src="https://github.com/user-attachments/assets/46a16d38-527c-4b65-a260-59fba0441590" />
+
 
 ### 5. Exportación
 
 Exporta los registros filtrados actuales en formato CSV con el nombre `telco_churn_filtered.csv`.
+<img width="328" height="83" alt="image" src="https://github.com/user-attachments/assets/3064ec17-f94f-4277-ac12-436980d88c54" />
+
 
 ## 📸 Capturas de Pantalla
 

@@ -34,6 +34,8 @@ Dashboard ejecutivo en React para análisis de fuga de clientes (Customer Churn)
 
 - Node.js >= 16.x
 - npm >= 8.x
+<img width="501" height="73" alt="image" src="https://github.com/user-attachments/assets/dddfdfbb-d339-4063-9634-50c1e3324feb" />
+
 
 ## 🛠️ Instalación
 
@@ -79,6 +81,8 @@ telco-churn-dashboard/
 │   └── App.jsx             # Componente principal del dashboard
 └── README.md
 ```
+<img width="1000" height="572" alt="image" src="https://github.com/user-attachments/assets/9f679620-f87d-4aa5-a9d9-af1142529033" />
+
 
 ## 📊 Formato del CSV
 
@@ -115,6 +119,7 @@ customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleL
 7590-VHVEG,Female,0,Yes,No,1,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,29.85,29.85,No
 5575-GNVDE,Male,0,No,No,34,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,56.95,1889.5,No
 ```
+<img width="1334" height="524" alt="image" src="https://github.com/user-attachments/assets/4c28ebc7-925a-4aa2-80e1-733bd0b70126" />
 
 ## 🎨 Paleta de Colores
 
